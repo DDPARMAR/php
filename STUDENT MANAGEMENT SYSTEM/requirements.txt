@@ -1,0 +1,9 @@
+1) Database Name : student
+
+2) Table 1 : student_details
+    - column 1 : first_name
+    - column 2 : last_name
+    - column 3 : father_name
+    - column 4 : mobile_number
+    - column 5 : email
+    - column 6 : address
